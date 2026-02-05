@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 AIdaolun_work/
 ├── data/                  # 数据目录：生成/存储模拟数据
-│   ├── generate_simulated_data.py  # 模拟数据生成脚本（10000条，贴合北师大10个教学单位）
+│   ├── generate_simulated_data.py  # 模拟数据生成脚本（10000条，贴合北师大22个教学单位）
 │   └── simulated_data.csv           # 学生数据集（运行上一脚本自动生成，含8特征+1绩点标签）
 ├── docs/                  # 文档目录：项目详细报告
 │   └── project_report.md  # 北师大专属项目报告（背景/方法/结果/应用）
