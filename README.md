@@ -12,7 +12,7 @@
 ## 🛠️ 环境依赖
 ### 运行环境
 - Python 3.8+
-- Anaconda/普通Python环境均可（推荐conda环境：AI_daolun_work）
+- Anaconda/普通Python环境均可（推荐conda环境：AIdaolun_work）
 
 ### 一键安装依赖
 激活环境后，在项目根目录执行：
